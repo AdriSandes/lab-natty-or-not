@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Conceitos e ferramentas essenciais para analisar dados em People Analytics
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é uma apresentação desenvolvida com a ajuda de inteligência artificial, focada em explicar conceitos de estatística aplicados ao People Analytics. A apresentação foi criada para ajudar profissionais de RH e analistas de dados a entender e aplicar técnicas estatísticas para obter insights valiosos sobre o comportamento e o desempenho dos colaboradores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o copilot para definição do projeto https://copilot.microsoft.com/ e https://gamma.app/ para a criação de slides
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Definição do Objetivo**:
+   - O objetivo deste projeto é simplificar e comunicar conceitos estatísticos complexos de uma maneira acessível e prática, com foco em People Analytics.
+
+2. **Pesquisa e Coleta de Dados**:
+   - Foram coletados dados e referências sobre conceitos estatísticos fundamentais e suas aplicações em People Analytics.
+
+3. **Desenvolvimento do Conteúdo**:
+   - Com a ajuda de ferramentas de inteligência artificial, o conteúdo foi elaborado, abordando tópicos como distribuições de dados, correlação, regressão, testes de hipótese, entre outros.
+
+4. **Criação do PowerPoint**:
+   - As informações foram organizadas e estruturadas em slides de PowerPoint, utilizando um design limpo e profissional para facilitar a compreensão.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://introducao-a-estatistica-sed1vai.gamma.site/
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
